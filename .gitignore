@@ -1,0 +1,13 @@
+# Archivos de configuración privada
+.env
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
+
+# Configuración de editores
+.vscode/
